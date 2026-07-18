@@ -236,7 +236,7 @@ Python Developer | MySQL | Learning Data Analysis & Machine Learning
 
 #  Support
 
-If you found this project helpful, don't forget to **Star  this repository** on GitHub.
+If you found this project helpful, don't forget to **Star  this repository** ⭐ on GitHub.
 
 It motivates me to build more amazing projects.
 
