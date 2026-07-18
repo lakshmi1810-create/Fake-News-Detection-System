@@ -1,4 +1,6 @@
 #  Fake News Detection System
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 A **Python + MySQL** based command-line application that detects whether a news article is **Real**, **Fake**, or **Needs Verification** using a simple keyword-based detection algorithm.
 
@@ -217,7 +219,6 @@ This helps users quickly analyze the current status of the news database.
 
 * Machine Learning based Fake News Detection
 * GUI using Tkinter
-* Flask/Django Web Version
 * User Login System
 * Add/Edit News
 * Export Reports (PDF & Excel)
